@@ -47,12 +47,14 @@
   padding: 0px;
 }
 
-.list-item, .section-title {
+.list-item,
+.section-title {
   list-style: none;
 }
 
 /*intentionally resetting the default styles*/
-input,button{
+input,
+button{
   outline: none;
 }
 
